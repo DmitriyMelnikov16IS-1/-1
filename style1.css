@@ -1,0 +1,33 @@
+.header {
+width: 988px;
+height: 157px;
+border: 5px solid black;
+margin: auto; /* Выравниваем по центру */
+}
+
+.sidebar {
+position: absolute;
+width: 350px;
+height: 250px;
+border: 5px solid black;
+top:189px;
+left:463px;
+}
+
+.content {
+position: absolute;
+width: 258px;
+height: 491px;
+border: 5px solid black;
+top:189px;
+left:839px;
+}
+
+.footbar {
+position: absolute;
+width: 330px;
+height: 235px;
+border: 5px solid black;
+top:444px;
+left:1123px;
+}
